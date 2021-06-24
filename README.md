@@ -10,15 +10,13 @@ The workflow is broken down into four independent steps, with a notebook for eac
 
 ## Run the Jupyter Notebooks in your Web Browser
 
-The [MyBinder.org](https://mybinder.org/) service let's you run the notebooks in this repository from your web browser by simply clicking on the launch link (the launch may take a couple of minutes). MyBinder launch links can be created for an entire repository or for a specific notebook. 
+The [MyBinder.org](https://mybinder.org/) service lets you run the notebooks in this repository from your web browser by simply clicking on the launch link (the launch may take a couple of minutes). MyBinder launch links can be created for an entire repository or for a specific notebook. 
 
-Your task is to insert launch links for both cases.
-
-**Insert a MyBinder.org launch link for this repository.**
+**MyBinder.org launch link for this repository.**
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jperezcuarenta/notebooks-sharing/HEAD?urlpath=lab) 
  
-**Insert a MyBinder.org launch link for the [4-Predict.ipynb](notebooks/4-Predict.ipynb) notebook.**
+**MyBinder.org launch link for the [4-Predict.ipynb](notebooks/4-Predict.ipynb) notebook.**
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jperezcuarenta/notebooks-sharing/HEAD?filepath=notebooks%2F4-Predict.ipynb)
 
